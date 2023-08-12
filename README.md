@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Snehasish Mohanty
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning C++ , HTML ,CSS , JAVACRIPT
+- 👋 Hi, I’m Snehasish !
+- 🌐 Web Developer | 💻 C++ | 🎨 HTML/CSS
+- Passionate about crafting digital experiences.
   
   
 
