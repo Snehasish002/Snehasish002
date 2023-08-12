@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snehasish002
+- 👋 Hi, I’m Snehasish Mohanty
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++ , HTML ,CSS , JAVACRIPT
   
