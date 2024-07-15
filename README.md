@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehasish !
-- 🌐 Web Developer | 💻 C++ | 🎨 HTML/CSS
+- 🌐 Frontend Developer 
 - Passionate about crafting digital experiences.
   
   
