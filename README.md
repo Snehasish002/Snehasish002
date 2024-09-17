@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Snehasish002/CoverPic/blob/main/Untitled-2.png"  />
+  <img height="150" src="https://github.com/Snehasish002/CoverPic/blob/main/Untitled-2.png"  />
 </div>
 
 ###
@@ -21,12 +21,6 @@
   <a href="mailto:snehasishmohanty9439@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Snehasish002.Snehasish002&"  />
 </div>
 
 ###
