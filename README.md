@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hello!👋 My name is Snehasish Mohanty. I'm from Bhubaneswar<br>-🔭 I’m working as a Front-End Developer specializing in modern web development technologies.<br>- 📚 I'm currently learning MongoDB to further enhance my backend skills.<br>- ⚡ In my free time, I enjoy video editing.</p>
+<p align="left">Hello!👋 My name is Snehasish Mohanty. I'm a Full-Stack Developer</p>
 
 ###
 
