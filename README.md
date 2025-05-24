@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hello!👋 My name is Snehasish Mohanty. I'm a Full-Stack Developer</p>
+<p align="left">Hello!👋 My name is Snehasish Mohanty and I'm a Full-Stack Developer.</p>
 
 ###
 
